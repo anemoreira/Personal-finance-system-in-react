@@ -1,4 +1,4 @@
-# Project finance
+# Personal finances
 ![chrome_SyhOOAFMWX](https://user-images.githubusercontent.com/93550467/210153565-760ddd3a-d7ce-4b90-a467-4b76199e5673.gif)
 
 
