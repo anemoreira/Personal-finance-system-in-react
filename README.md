@@ -1,6 +1,6 @@
-# Expense Tracker with React
+# Project finance
+![chrome_SyhOOAFMWX](https://user-images.githubusercontent.com/93550467/210153565-760ddd3a-d7ce-4b90-a467-4b76199e5673.gif)
 
-This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
 
 ## First Steps
 
