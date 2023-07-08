@@ -1,4 +1,4 @@
-import * as C from './styles';
+import * as Element from './styles';
 import { Item } from '../../types/Item';
 import { TableItem } from '../TableItem';
 
@@ -8,13 +8,13 @@ type Props = {
 
 export const TableArea = ({ list }: Props) => {
     return (
-        <C.Table>
+        <Element.Table>
             <thead>
                 <tr>
-                    <C.TableHeadColumn width={100}>Data</C.TableHeadColumn>
-                    <C.TableHeadColumn width={130}>Categoria</C.TableHeadColumn>
-                    <C.TableHeadColumn>Título</C.TableHeadColumn>
-                    <C.TableHeadColumn width={150}>Valor</C.TableHeadColumn>
+                    <Element.TableHeadColumn width={100}>Data</Element.TableHeadColumn>
+                    <Element.TableHeadColumn width={130}>Categoria</Element.TableHeadColumn>
+                    <Element.TableHeadColumn>Título</Element.TableHeadColumn>
+                    <Element.TableHeadColumn width={150}>Valor</Element.TableHeadColumn>
                 </tr>
             </thead>
             <tbody>
@@ -22,6 +22,6 @@ export const TableArea = ({ list }: Props) => {
                     <TableItem key={index} item={item} />
                 ))}
             </tbody>
-        </C.Table>
+        </Element.Table>
     );
 }
