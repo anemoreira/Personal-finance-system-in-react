@@ -5,6 +5,9 @@
 ## First Steps
 #### Esse arquivo será atualizado para o processo seletivo da Tractian
 
+Neste arquivo foi realizado:
+1. Refatoração de código
+
 `npm install`
 
 ## Available Scripts
