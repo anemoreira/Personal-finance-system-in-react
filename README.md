@@ -7,6 +7,7 @@
 
 Neste arquivo foi realizado:
 1. Refatoração de código
+2. Cenários e casos de testes manuais ![Testes Manuais]()
 
 `npm install`
 
