@@ -3,11 +3,6 @@
 
 
 ## First Steps
-#### Esse arquivo será atualizado para o processo seletivo da Tractian
-
-Neste arquivo foi realizado:
-1. Refatoração de código
-2. Cenários e casos de testes manuais ![Testes Manuais]()
 
 `npm install`
 
