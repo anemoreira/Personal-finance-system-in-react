@@ -1,6 +1,9 @@
 # Personal finances
 ![chrome_SyhOOAFMWX](https://user-images.githubusercontent.com/93550467/210153565-760ddd3a-d7ce-4b90-a467-4b76199e5673.gif)
 
+## GEAR
+Quem se adapta rápido vai mais longe do que quem planeja, a capacidade de lidar com mudanças é o maior acelerador de um projeto. 
+
 
 ## First Steps
 
